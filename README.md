@@ -11,10 +11,9 @@ This website allows a single player to player to play the pig dice game
 | Behavior        | Input           | Outcome  |
 | ------------- |:-------------:| -----:|
 | Player 1 inputs name, and clicks start button | Player 1: Jackie / Click START | Goes to game console |
-
 | Player 1 clicks ROLL button | Click ROLL button | Dice rolls and number is generated
-| If Player 1 rolls any number other than 1, that roll is added to round total | Roll = 2 | Round total = 2 |
-| If Player 1 rolls a 1, no score is added and round for Player 1 ends | Roll = 1 | Round total = 2 / Total score = 2 / Game restarts |
+| If Player rolls any number other than 1, that roll is added to round total | Roll = 2 | Round total = 2 |
+| If Player  rolls a 1, no score is added and round for Player  ends | Roll = 1 | Round total = 2 / Total score = 2 / Game restarts |
 | When a players total score reaches 100 or more, game ends and winner page shows | Player 1 total score = 100 | Winner page |
 
 ## Setup/Installation Requirements
